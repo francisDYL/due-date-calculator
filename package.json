@@ -1,0 +1,19 @@
+{
+  "name": "due-date-calculator",
+  "version": "1.0.0",
+  "description": "Due date calculator for issue tracking",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Francis",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.28.4",
+    "@babel/preset-env": "^7.28.3",
+    "@babel/preset-typescript": "^7.27.1",
+    "@types/jest": "^30.0.0",
+    "babel-jest": "^30.1.2",
+    "jest": "^30.1.3"
+  }
+}
